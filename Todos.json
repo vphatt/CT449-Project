@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "6381abbfcf1273399764b0a2"
+  },
+  "content": "13h thứ 2 tại phòng 217 khoa CNTT&TT",
+  "deadline": "28-11-2022",
+  "title": "Báo cáo Niên luận cơ sở",
+  "complete": false
+},{
+  "_id": {
+    "$oid": "6381abeecf1273399764b0c3"
+  },
+  "complete": true,
+  "content": "Nộp báo cáo dự án môn phát triển ứng dụng WEB",
+  "deadline": "13-11-2022",
+  "title": "Nộp báo cáo môn WEB"
+},{
+  "_id": {
+    "$oid": "63856b76cf12733997655a3e"
+  },
+  "content": "môn Niên luận CNTT, phát triển phần mềm, quản lý dự án phần mềm",
+  "deadline": "28-11-2022",
+  "title": "Đăng kí học phần",
+  "complete": true
+},{
+  "_id": {
+    "$oid": "63856c9bcf12733997655a89"
+  },
+  "content": "Thi tại phòng 213 lúc 14h",
+  "deadline": "30-11-2022",
+  "title": "Thi cuối kỳ An toàn hệ thống",
+  "complete": false
+}]
